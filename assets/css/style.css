@@ -1729,7 +1729,7 @@ textarea.form-input::-webkit-resizer { display: none; }
   .clients-item { 
     border-radius: 100%;
 
-    min-width: calc(25% - 60px); }
+    min-width: calc(25% - 90px); }
 
 
 
